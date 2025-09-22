@@ -1,5 +1,5 @@
 # How to use this repository
-Download the repository and use DDEV with *ddev launch* command to start your site using Docker.
+Download the repository (you should have a folder called wunderhello/ with all of the repository files under it) and place it under your WordPress site's wp-content/themes folder, then activate the theme in your admin dashboard.
 
 # Features added
 - Tailwind CSS with a plugin for it called Flowbite that allows easily creating carousels etc.
